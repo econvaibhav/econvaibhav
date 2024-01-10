@@ -32,5 +32,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=econvaibhav&show_icons=true&locale=en&layout=compact" alt="econvaibhav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=econvaibhav&" alt="econvaibhav" /></p>
-
