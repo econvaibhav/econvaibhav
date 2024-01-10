@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]()](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Vaibhav Agarwal</h1>
 <h3 align="center">I am a student at the University of Helsinki, Finland. I am aspiring to become a social data scientist!</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://vaibhavagarwal.org/wp-content/uploads/2023/08/4eed2-ssaat_work_ph128.png")
 
 - I’m currently working on **Creating a Comprehensive Guide to Statistics and Data Visualization for the Visually Disabled.**
 
