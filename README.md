@@ -20,7 +20,6 @@
 
 - Know about my experiences [https://vaibhavagarwal.org/cv/](https://vaibhavagarwal.org/cv/)
 
-- Fun fact **I can't tolerate the COLD here at Helsinki!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
