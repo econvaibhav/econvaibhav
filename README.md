@@ -6,15 +6,7 @@
 <img align="right" alt="Coding" width="1000" src="https://vaibhavagarwal.org/wp-content/uploads/2023/08/4eed2-ssaat_work_ph128.png">
 
 
-- I’m currently working on **Creating a Comprehensive Guide to Statistics and Data Visualization for the Visually Disabled.**
-
-- I’m currently learning **ArcGIS Pro and Finnish**
-
-- I’m looking to collaborate on **projects relating to natural language processing and/or geospatial analysis to build strong academic foundation in these domains.**
-
 - All of my projects are available at [https://vaibhavagarwal.org/](https://vaibhavagarwal.org/)
-
-- Ask me about **Accessible Data Visualisations or R Programming**
 
 - How to reach me **vaibhav.agarwal@helsinki.fi**
 
