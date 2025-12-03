@@ -1,5 +1,3 @@
-[![MasterHead](https://vaibhavagarwal.org/wp-content/uploads/2024/01/Monochrome-Modern-Motivational-LinkedIn-Banner1.png)](https://vaibhavagarwal.org/)
-
 <h1 align="center">Hi, I'm Vaibhav Agarwal</h1>
 
 
