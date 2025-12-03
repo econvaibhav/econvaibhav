@@ -1,7 +1,7 @@
 [![MasterHead](https://vaibhavagarwal.org/wp-content/uploads/2024/01/Monochrome-Modern-Motivational-LinkedIn-Banner1.png)](https://vaibhavagarwal.org/)
 
 <h1 align="center">Hi, I'm Vaibhav Agarwal</h1>
-<h3 align="center">I am a student at the University of Helsinki, Finland. I am aspiring to become a social data scientist!</h3>
+
 
 <img align="right" alt="Coding" width="1000" src="https://vaibhavagarwal.org/wp-content/uploads/2023/08/4eed2-ssaat_work_ph128.png">
 
