@@ -8,7 +8,7 @@
   <a href="mailto:vaibhav.agarwal@tum.de">vaibhav.agarwal@tum.de</a>
 </p>
 
-Hi, I'm Vaibhav!.
+Hi, I'm Vaibhav!
 
 I'm interested in **human behaviour and big data analysis**, from how people form opinions and make decisions to what we can learn from surveys, text, images and video.
 
