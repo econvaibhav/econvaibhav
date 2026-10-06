@@ -1,23 +1,28 @@
-<h1 align="center">Hi, I'm Vaibhav Agarwal</h1>
+<h1 align="center">Vaibhav Agarwal</h1>
 
-
-<img align="right" alt="Coding" width="1000" src="https://vaibhavagarwal.org/wp-content/uploads/2023/08/4eed2-ssaat_work_ph128.png">
-
-
-- All of my projects are available at [https://vaibhavagarwal.org/](https://vaibhavagarwal.org/)
-
-- How to reach me **vaibhav.agarwal@helsinki.fi**
-
-- Know about my experiences [https://vaibhavagarwal.org/cv/](https://vaibhavagarwal.org/cv/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaibhav-agarwal-24a9aa214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhav-agarwal-24a9aa214" height="30" width="40" /></a>
+<p align="center">
+  Social data scientist · Doctoral researcher at TUM
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:vaibhav.agarwal@tum.de">vaibhav.agarwal@tum.de</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=econvaibhav&show_icons=true&locale=en&layout=compact" alt="econvaibhav" /></p>
+Hi, I'm Vaibhav!.
 
+I'm interested in **human behaviour and big data analysis**, from how people form opinions and make decisions to what we can learn from surveys, text, images and video.
+
+My doctoral research at **TUM / HfP** focuses on **algorithm aversion in public services**: when and why people are reluctant to accept algorithmic decisions. I combine survey experiments, behavioural traces, people's reasoning and multimodal research to understand differences in attitudes, reasoning and choices. I am also interested in finding ways to uncover the individual level hidden heterogeneity in survey research.
+
+I build open-source tools in the domain of social and behavioural data science.
+
+### A few things I've built
+
+| Project | What it does |
+| :--- | :--- |
+| [FeedSlicer](https://github.com/econvaibhav/IG-TK-Spliter) | Split Instagram and TikTok feed recordings into individual clips. |
+| [EU Political NER](https://github.com/econvaibhav/EU-Political-NER) | Identify political actors across 10 European countries, with curated glossaries and human review. |
+| [IG/TK Account OCR](https://github.com/econvaibhav/IG-TK-AccNames-OCR) | Extract account names from videos, review the results and export to Excel. |
+| [Human × LLM Trust](https://github.com/econvaibhav/Trust-LLMHuman-VideoComparison) | Compare how people and language models judge the trustworthiness of videos. |
+
+---
